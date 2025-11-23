@@ -1,4 +1,4 @@
-# Jub UI application
+# Jub GUI application
   
   This project contains the web application built using Vue 3.
  
